@@ -36,7 +36,7 @@ There are two methods of deployment **Eclipse IDE  or CMD line**. The command li
 Launch Eclipse and set the workspace as the root folder that was extracted from the GitHub project. Select the folder using the Eclipse popup window browse button. Create a new project File tab --> New --> Project --> Java Project and name it **AI-Project**. This is the name of the folder containing the project, Eclipse will pull in the files into the created project. Run the project by selecting the Run tab --> Run.
 
 * **Command Line**          
-Launch the command Line and navigate to the src folder inside the project folder. Root folder --> Reflection --> src. Once inside the src folder run the command **javac ie/gmit/sw/*.java** to compile all the java classes. Then run the application with the command **java ie.gmit.sw.GameRunner**.
+Launch the command Line and navigate to the src folder inside the project folder. Root folder --> AI-Project --> src. Once inside the src folder run the command **javac ie/gmit/sw/*.java** to compile all the java classes. Then run the application with the command **java ie.gmit.sw.GameRunner**.
 
 
 ## Built With
